@@ -1,0 +1,25 @@
+.navbar-brand {
+    margin-left: 10px; /* Adjust margin to move the brand to the right */
+    font-size: 1.5rem; 
+    font-weight: bold; 
+    color: #000; 
+    text-decoration: none; /* Remove underline */
+}
+
+.navbar {
+    margin-right: 0px; /* Adjust margin to move the navbar to the right */
+}
+
+.bg-custom {
+    background-color:#00695c;
+}
+
+.navbar .nav-item:hover .nav-link {
+    background-color: white;
+    color: #00695c;
+    border-radius: 12px; 
+}
+
+.navbar-brand:hover {
+    color:  #00695c;
+}
