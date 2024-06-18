@@ -1,0 +1,31 @@
+body{
+	
+	font-family:sans-serif;
+}
+
+.bg-custom {
+    background-color: #00695c;;
+}
+
+.navbar .nav-item:hover .nav-link {
+    background-color: white;
+    color: #00695c;
+    border-radius: 12px; 
+}
+.navbar{
+	margin-right : 0px;
+	
+}
+
+.navbar-brand {
+  font-size: 1.5rem; 
+  font-weight: bold; 
+  color: #000; 
+  text-decoration: none; /* Remove underline */
+}
+.navbar-brand:hover{
+	
+	color:  #00695c;
+}
+
+

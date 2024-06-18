@@ -1,0 +1,42 @@
+.body {
+            background-color: #f0f1f2;
+        }
+
+        .container {
+            margin-top: 5%;
+            margin-bottom: 5%;
+        }
+
+        .card {
+            border: none;
+            border-radius: 25px;
+        }
+
+        .card-body {
+            padding: 2rem;
+        }
+
+        .form-control {
+            border-radius: 25px;
+        }
+
+        .form-check-input {
+            margin-top: 0.25rem;
+            margin-bottom: 0.25rem;
+        }
+
+        .input-group-text {
+            background-color: transparent;
+            border: none;
+        }
+
+        .input-group-text .fas {
+            color: #6c757d;
+        }
+
+        .img-fluid {
+            border-radius: 25px;
+        }
+        
+        
+        
