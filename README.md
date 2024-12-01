@@ -1,4 +1,7 @@
 # ParkingManagementSystem
+Developed a web-based parking system with real-time slot tracking, automated billing, and 80% manual workload
+reduction. Utilized Java, JSP, Servlets, JDBC, HTML, CSS, and Bootstrap; gained experience in system design and database
+management. For more information you can see the images below:
 ![Homepage](https://github.com/user-attachments/assets/3fe7bfad-604e-4133-80a7-37343ce16963)
 ![HomePage(WeProvideSection)](https://github.com/user-attachments/assets/72480acf-966c-4d3d-96ae-939b1e14a0a7)
 ![HomePage(AboutUsSection)](https://github.com/user-attachments/assets/a32b7fe7-e0ea-4792-a4f2-8d13d055ddcc)
